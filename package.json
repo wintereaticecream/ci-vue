@@ -1,0 +1,22 @@
+{
+  "name": "ci-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holylinY/ci-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holylinY/ci-vue/issues"
+  },
+  "homepage": "https://github.com/holylinY/ci-vue#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
